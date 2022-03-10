@@ -1,0 +1,13 @@
+{
+  "name": "3-hw-boxes",
+  "version": "1.0.0",
+  "description": "matrioshka of boxes with borders",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["box, inline-block, float, widht"],
+  "author": "Povilas",
+  "license": "ISC"
+}
