@@ -11,7 +11,7 @@ This project is for **educational** porpuses only.
 
 Site published at: https://neigiamasjonas.github.io/3-hw-boxes/
 
-Design: none
+Design: [Boxes](https://cdn.discordapp.com/attachments/950296439051911178/951432465568899082/unknown.png)
 
 ## Project features
 
@@ -30,8 +30,6 @@ Povilas: [Github](https://github.com/neigiamasJonas)
 ## Code sample
 
 ```html
-    <main style="width: 60%; margin-left: 20%; margin-top: 2%; display:inline-block; border: 3px solid black;">
-        <div style="width: auto; height: 60px; margin: 10px; border: 3px solid red;">
-            <div style="border: 3px solid red; width: 25%; height: 34px; margin: 10px; float: left;"></div>
-            <div style="border: 3px solid red; width: 46%; height: 34px; margin: 10px; ; float: right;"></div>
-        </div>
+   <div style="width: 97%; height: 35%; margin: 1%; margin-bottom: 20%; border: 3px solid red;">
+            <div style="border: 3px solid red; width: 35%; height: 90%; margin: 1%; float: left;"></div>
+            <div style="border: 3px solid red; width: 35%; height: 90%; margin: 1%; ; float: right;"></div>
